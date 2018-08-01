@@ -1,7 +1,7 @@
 
 Paralline (Python3)
 
-Full doc at: www.netnotnut.org/paralline   
+Full doc at: www.netnotnut.com/paralline   
 Licence: MIT  
 Contact: paralline@gmx.com  
 
